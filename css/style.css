@@ -1,0 +1,40 @@
+h1 {
+  color: rgb(196, 15, 15);
+  width: 25px;
+  height: 10px;
+  background: url("../school.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+
+body {
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+p {
+  color: rgb(255, 0, 0);
+  border-style: dotted;
+}
+
+h3 {
+  color: rgba(41, 126, 62, 0.658);
+  border: 2px solid pink;
+  padding: 10px 9px 8px 7px;
+  margin: 2px 3px 4px 5px;
+}
+
+h4 {
+  color: hsl(251, 73%, 40%);
+}
+
+h5 {
+  color: rgb(65, 50, 50);
+}
+
+.man {
+  background-color: gold;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
